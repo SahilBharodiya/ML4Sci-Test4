@@ -4,4 +4,4 @@ Test IV - Exploring Equivarient Neural Network
 
 Area Under Curve : 0.999
 
-![screenshot][test4_auc.png]
+![test 4 roc][test4_auc.png]
